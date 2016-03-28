@@ -2801,8 +2801,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/acos-annotated-demo/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65695065">
-              <caret line="396" column="18" selection-start-line="396" selection-start-column="18" selection-end-line="396" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.15246637">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -2811,7 +2811,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.034483">
+            <state vertical-scroll-proportion="-226.27586">
               <caret line="386" column="28" selection-start-line="385" selection-start-column="0" selection-end-line="386" selection-end-column="28" />
               <folding />
             </state>
@@ -3544,15 +3544,15 @@
       <workItem from="1459015691457" duration="1236000" />
       <workItem from="1459023398786" duration="2834000" />
       <workItem from="1459065753745" duration="1348000" />
-      <workItem from="1459103990130" duration="10548000" />
+      <workItem from="1459103990130" duration="10706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="274790000" />
+    <option name="totallyTimeSpent" value="274948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1370" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3969,7 +3969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.034483">
+        <state vertical-scroll-proportion="-226.27586">
           <caret line="386" column="28" selection-start-line="385" selection-start-column="0" selection-end-line="386" selection-end-column="28" />
           <folding />
         </state>
@@ -3977,8 +3977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/acos-annotated-demo/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65695065">
-          <caret line="396" column="18" selection-start-line="396" selection-start-column="18" selection-end-line="396" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.15246637">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
